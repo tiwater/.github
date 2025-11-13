@@ -18,7 +18,7 @@ Tiwater is pioneering the next generation of AI agent platforms, with two flagsh
 
 ## Products
 
-<img src="https://github.com/tiwater/hetu/blob/main/public/logo.svg" alt="Ticos Logo" width="60" height="auto">
+<img src="https://cloud.ticos.ai/logo.svg" alt="Ticos Logo" width="60" height="auto">
 
 ### Ticos - Embodied AI Platform
 
@@ -40,7 +40,7 @@ Ticos provides end-to-end solutions for embodied intelligence, from perception t
 
 ---
 
-<img src="https://github.com/tiwater/supen/blob/main/app/public/logo.svg" alt="Supen Logo" width="60" height="auto">
+<img src="https://supen.ai/logo.svg" alt="Supen Logo" width="60" height="auto">
 
 ### Supen - Enterprise AI Platform
 
